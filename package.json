@@ -1,0 +1,23 @@
+{
+  "name": "dummy-json-play",
+  "version": "1.0.0",
+  "description": "generator dat pro elastic",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelNovotny/dummy-json-play.git"
+  },
+  "author": "Pavel Novotny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelNovotny/dummy-json-play/issues"
+  },
+  "homepage": "https://github.com/PavelNovotny/dummy-json-play#readme",
+  "dependencies": {
+    "dummy-json": "^1.0.1",
+    "nconf": "^0.8.4"
+  }
+}
